@@ -1,1 +1,1 @@
-last_digit
+last-digit
