@@ -5,10 +5,12 @@
  * @s: string
  * Return: void
  */
+
 void rev_string(char *s)
 {
 int i, max, half;
 char first, last;
+
 i = 0;
 while (s[i] != '\0')
 {
