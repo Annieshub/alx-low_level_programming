@@ -1,1 +1,1 @@
-half.c
+array.c
