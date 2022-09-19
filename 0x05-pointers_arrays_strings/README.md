@@ -1,1 +1,1 @@
-array.c
+strcpy.c
