@@ -1,1 +1,1 @@
-print_number
+magic
