@@ -1,1 +1,1 @@
-main.h
+strncat.c
