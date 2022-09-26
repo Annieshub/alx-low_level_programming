@@ -1,1 +1,1 @@
-strchr
+main
