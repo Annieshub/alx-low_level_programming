@@ -1,1 +1,1 @@
-0-puts
+print_rev
