@@ -1,1 +1,1 @@
-print_rev
+strlen
